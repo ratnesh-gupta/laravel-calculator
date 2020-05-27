@@ -1,0 +1,25 @@
+{
+    "name": "likeaway/website",
+    "description": "This is basic website package",
+    "type": "library",
+    "require": {
+        "illuminate/support": "^8.0@dev",
+        "php": "^7.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.2@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "Likeaway\\Website\\": "src"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ratnesh Kumar Gupta",
+            "email": "ratneshkrgupt@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

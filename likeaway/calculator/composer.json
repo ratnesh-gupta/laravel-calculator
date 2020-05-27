@@ -1,0 +1,16 @@
+{
+    "name": "likeaway/calculator",
+    "description": "This package will do the calculations",
+    "license": "MIT",
+    "require": {
+        "illuminate/support": "^8.0@dev",
+        "php": "^7.3"
+    },
+    "authors": [
+        {
+            "name": "Ratnesh Kumar Gupta",
+            "email": "ratneshkrgupt@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
